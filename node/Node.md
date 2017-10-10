@@ -8,6 +8,10 @@
 4. websocket-stream: Use HTML5 [websockets](https://developer.mozilla.org/en-US/docs/WebSockets) using the Node Streams API.
 5. trumpet : parse and transform streaming html using css selectors
 
+### Normal connect
+
+1. [body-parser](https://github.com/expressjs/body-parser)
+
 ### MongoDB
 
 1. [Node.js MongoDB Driver API](http://mongodb.github.io/node-mongodb-native/2.2/api/index.html)
@@ -28,5 +32,6 @@
 ### Others
 
 1. [nodemon](https://github.com/remy/nodemon) 检测文件变动并重启服务
+2. [connect中间件](https://github.com/senchalabs/connect/wiki)
 
 
