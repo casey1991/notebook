@@ -33,5 +33,8 @@
 
 1. [nodemon](https://github.com/remy/nodemon) 检测文件变动并重启服务
 2. [connect中间件](https://github.com/senchalabs/connect/wiki)
+3. [fibers-纤程开发库详解](http://www.codeweblog.com/nodejs%E4%B8%AD%E7%9A%84fiber-%E7%BA%A4%E7%A8%8B-%E5%BA%93%E8%AF%A6%E8%A7%A3/)
+4. [socket.io](https://github.com/socketio/socket.io)
+5. [socket.io.client](https://github.com/socketio/socket.io-client)
 
 
